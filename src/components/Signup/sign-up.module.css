@@ -31,6 +31,6 @@
 }
 
 .termsLink{
-    color: var(--clr-primary-400);
+    color:hsl(0, 32%, 37%);
     text-decoration: none;
 }

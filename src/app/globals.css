@@ -122,7 +122,8 @@ body {
   padding: 1rem;
   border-radius: .4rem;
   border: 0;
+  font-weight: var(--fw--bold);
   background-color: var(--clr-secondary-400);
   text-transform: uppercase;
-  color: var(--clr-neutral-100);
+  color: var(--clr-accent-900);
 }
