@@ -33,4 +33,5 @@
 .termsLink{
     color:hsl(0, 32%, 37%);
     text-decoration: none;
+    font-weight:var(--fw--bold);
 }
