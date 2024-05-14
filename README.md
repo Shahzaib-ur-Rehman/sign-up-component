@@ -14,12 +14,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/Shahzaib-ur-Rehman/sign-up-component)
-- Live Site URL: [Sign-up-Componnet](https://your-live-site-url.com)
+- Live Site URL: [Sign-up-Componnet](https://sign-up-component-livid.vercel.app/)
 
 ## My process
 
